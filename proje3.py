@@ -56,7 +56,7 @@ while True:
         lib.add_book()
     elif choice == '3':
         lib.remove_book()
-    elif choice == 'Q':
+    elif choice == 'q':
         print("Exit")
         break
     else:
